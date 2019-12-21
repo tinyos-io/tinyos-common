@@ -1,5 +1,4 @@
-
-
+#!/bin/bash
 
 #is enough
 # -I/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include/ -> stdarg,stddef
