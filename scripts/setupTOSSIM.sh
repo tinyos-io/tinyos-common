@@ -8,10 +8,9 @@ chmod +x ./common/patchs/tinyos_tools_build_toolchain_patch.sh
 ./common/patchs/tinyos_tools_build_toolchain_patch.sh
 
 
-echo "======> Patching make_things_works_patch.sh"
-chmod +x ./common/patchs/make_things_works_patch.sh
-./common/patchs/make_things_works_patch.sh
-
+echo "======> Patching for tossim"
+chmod +x ./common/patchs/tossim_build_toolchain_patch.sh
+./common/patchs/tossim_build_toolchain_patch.sh
 
 
 echo "======> Patching for documentations"
