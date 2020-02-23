@@ -12,6 +12,8 @@ chmod +x common/scripts/setupTOS.sh
 
 ```
 reset && make mega2560 install m2560,/dev/ttyACM0 verbose
+
+
 ```
 
 # troubeshooting
